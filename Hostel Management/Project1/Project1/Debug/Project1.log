@@ -1,0 +1,393 @@
+﻿  Source.c
+d:\apu cs course\icp\hostel management\project1\project1\source.c(58): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(74): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(74): warning C4024: 'view': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(82): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(82): warning C4024: 'view': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(93): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(93): warning C4024: 'view': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(101): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(101): warning C4024: 'view': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(137): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(137): warning C4024: 'view': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(139): warning C4047: 'function': 'char' differs in levels of indirection from 'char [7]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(139): warning C4024: 'booking': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(139): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(139): warning C4024: 'booking': different types for formal and actual parameter 2
+d:\apu cs course\icp\hostel management\project1\project1\source.c(191): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(191): warning C4024: 'view': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(193): warning C4047: 'function': 'char' differs in levels of indirection from 'char [7]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(193): warning C4024: 'booking': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(193): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(193): warning C4024: 'booking': different types for formal and actual parameter 2
+d:\apu cs course\icp\hostel management\project1\project1\source.c(253): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(253): warning C4024: 'view': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(255): warning C4047: 'function': 'char' differs in levels of indirection from 'char [7]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(255): warning C4024: 'booking': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(255): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(255): warning C4024: 'booking': different types for formal and actual parameter 2
+d:\apu cs course\icp\hostel management\project1\project1\source.c(307): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(307): warning C4024: 'view': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(309): warning C4047: 'function': 'char' differs in levels of indirection from 'char [7]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(309): warning C4024: 'booking': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(309): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(309): warning C4024: 'booking': different types for formal and actual parameter 2
+d:\apu cs course\icp\hostel management\project1\project1\source.c(401): warning C4047: 'function': 'char' differs in levels of indirection from 'char [50]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(401): warning C4024: 'paymentFacility': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(442): warning C4047: 'function': 'char' differs in levels of indirection from 'char [3]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(442): warning C4024: 'deleteRoom': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(442): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(442): warning C4024: 'deleteRoom': different types for formal and actual parameter 2
+d:\apu cs course\icp\hostel management\project1\project1\source.c(442): warning C4047: 'function': 'char' differs in levels of indirection from 'char [1000]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(442): warning C4024: 'deleteRoom': different types for formal and actual parameter 3
+d:\apu cs course\icp\hostel management\project1\project1\source.c(493): warning C4047: 'function': 'char' differs in levels of indirection from 'char [3]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(493): warning C4024: 'deleteRoom': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(493): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(493): warning C4024: 'deleteRoom': different types for formal and actual parameter 2
+d:\apu cs course\icp\hostel management\project1\project1\source.c(493): warning C4047: 'function': 'char' differs in levels of indirection from 'char [1000]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(493): warning C4024: 'deleteRoom': different types for formal and actual parameter 3
+d:\apu cs course\icp\hostel management\project1\project1\source.c(510): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(510): warning C4024: 'view': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(512): warning C4047: 'function': 'char' differs in levels of indirection from 'char [7]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(512): warning C4024: 'booking': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(512): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(512): warning C4024: 'booking': different types for formal and actual parameter 2
+d:\apu cs course\icp\hostel management\project1\project1\source.c(568): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(568): warning C4024: 'view': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(570): warning C4047: 'function': 'char' differs in levels of indirection from 'char [7]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(570): warning C4024: 'booking': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(570): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(570): warning C4024: 'booking': different types for formal and actual parameter 2
+d:\apu cs course\icp\hostel management\project1\project1\source.c(634): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(634): warning C4024: 'view': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(636): warning C4047: 'function': 'char' differs in levels of indirection from 'char [7]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(636): warning C4024: 'booking': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(636): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(636): warning C4024: 'booking': different types for formal and actual parameter 2
+d:\apu cs course\icp\hostel management\project1\project1\source.c(692): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(692): warning C4024: 'view': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(694): warning C4047: 'function': 'char' differs in levels of indirection from 'char [7]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(694): warning C4024: 'booking': different types for formal and actual parameter 1
+d:\apu cs course\icp\hostel management\project1\project1\source.c(694): warning C4047: 'function': 'int' differs in levels of indirection from 'int [100]'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(694): warning C4024: 'booking': different types for formal and actual parameter 2
+d:\apu cs course\icp\hostel management\project1\project1\source.c(13): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(33): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(37): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(67): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(71): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(75): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(79): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(86): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(90): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(94): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(98): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(104): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(107): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(111): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(118): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(124): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(126): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(127): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(130): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(134): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(140): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(144): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(160): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(174): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(179): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(184): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(188): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(194): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(198): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(214): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(228): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(233): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(240): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(242): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(243): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(246): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(250): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(256): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(260): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(276): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(290): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(295): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(300): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(304): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(310): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(314): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(330): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(344): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(349): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(354): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(357): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(368): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(371): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(372): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(373): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(374): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(375): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(376): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(377): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(378): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(379): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(380): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(384): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(387): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(391): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(398): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(403): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(406): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(410): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(417): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(420): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(423): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(426): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(430): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(435): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(436): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(439): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(445): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(450): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(454): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(461): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(464): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(467): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(470): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(474): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(478): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(482): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(486): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(487): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(490): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(497): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(499): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(500): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(503): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(507): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(513): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(517): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(533): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(547): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(556): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(561): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(565): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(571): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(575): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(591): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(605): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(614): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(621): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(623): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(624): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(627): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(631): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(637): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(641): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(657): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(671): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(680): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(685): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(689): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(695): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(699): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(715): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(729): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(738): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(743): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(755): warning C4028: formal parameter 1 different from declaration
+d:\apu cs course\icp\hostel management\project1\project1\source.c(781): warning C4028: formal parameter 1 different from declaration
+d:\apu cs course\icp\hostel management\project1\project1\source.c(781): warning C4028: formal parameter 2 different from declaration
+d:\apu cs course\icp\hostel management\project1\project1\source.c(781): warning C4028: formal parameter 3 different from declaration
+d:\apu cs course\icp\hostel management\project1\project1\source.c(789): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(803): warning C4028: formal parameter 1 different from declaration
+d:\apu cs course\icp\hostel management\project1\project1\source.c(803): warning C4028: formal parameter 2 different from declaration
+d:\apu cs course\icp\hostel management\project1\project1\source.c(812): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(810): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(811): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(827): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(859): warning C4028: formal parameter 1 different from declaration
+d:\apu cs course\icp\hostel management\project1\project1\source.c(871): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(861): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(867): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(870): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(877): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(881): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(882): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(883): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(884): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(885): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(886): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(887): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(888): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(889): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(890): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(892): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\apu cs course\icp\hostel management\project1\project1\source.c(860): warning C4101: 'fptra': unreferenced local variable
+d:\apu cs course\icp\hostel management\project1\project1\source.c(862): warning C4101: 'ch': unreferenced local variable
+d:\apu cs course\icp\hostel management\project1\project1\source.c(849): warning C4172: returning address of local variable or temporary: room
+  Project1.vcxproj -> D:\APU CS course\ICP\Hostel Management\Project1\Debug\Project1.exe
